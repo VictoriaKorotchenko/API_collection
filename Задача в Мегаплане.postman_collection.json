@@ -33,12 +33,12 @@
 					"formdata": [
 						{
 							"key": "username",
-							"value": "Exploratory1@1.1",
+							"value": "username",
 							"type": "text"
 						},
 						{
 							"key": "password",
-							"value": "Exploratory1@1.1",
+							"value": "password",
 							"type": "text"
 						},
 						{
@@ -212,12 +212,12 @@
 					"formdata": [
 						{
 							"key": "username",
-							"value": "Exploratory2@1.1",
+							"value": "username",
 							"type": "text"
 						},
 						{
 							"key": "password",
-							"value": "Exploratory2@1.1",
+							"value": "password",
 							"type": "text"
 						},
 						{
@@ -557,14 +557,7 @@
 			"key": "token_user2",
 			"value": "NTAzNGM4ZmY1Y2M2NjE3YzFhMzY1Y2Q3YTU2ZjE0OWEyYjMzZmRhMDM3YzYzYTQ5MzA1NzY4NzJjYjUyMjRkZA"
 		},
-		{
-			"key": "id_task",
-			"value": ""
-		},
-		{
-			"key": "description_task",
-			"value": ""
-		},
+			
 		{
 			"key": "task_id",
 			"value": "1002273"
